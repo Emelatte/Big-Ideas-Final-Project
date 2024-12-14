@@ -1,7 +1,8 @@
 Team Name (That's actually our team name)
-Natalie Goldsworthy - npg26@pitt.edu
-Samara Mansoor - sam962@pitt.edu
-Emily Truong - elt132@pitt.edu
+Natalie Goldsworthy - npg26@pitt.edu - Trees.ipynb
+Samara Mansoor - sam962@pitt.edu - illegaldump.ipynb
+Emily Truong - elt132@pitt.edu - ExpensiveHouseNeighborhood.ipynb
+Canvas Group: 11
 
 Datasets:
 
@@ -31,5 +32,5 @@ Project Overview:
 
 This project measures which neighborhood in Pittsburgh is the best
 based on the overall housing value, quanitity of trees, and amount
-of trashed dumped illegally, determining which neighborhood is the 
-best to live in overall.
+of trashed dumped illegally, overall determining which neighborhood is the 
+best to live in.
